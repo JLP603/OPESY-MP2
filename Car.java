@@ -3,12 +3,7 @@ public class Car {
     public Car(){
 
     }
-    public void board(){
-
-    }
-    public void unboard(){
-
-    }
+    
     public void load(){
 
     }
