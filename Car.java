@@ -18,5 +18,19 @@ public class Car {
     public void run(){
 
     }
+/*
+loadingArea[i].wait()
+load()
+boardQueue.signal(C)
+allAboard.wait()
+loadingArea[next(i)].signal()
 
+run()
+
+unloadingArea[i].wait()
+unload()
+unboardQueue.signal(C)
+allAshore.wait()
+unloadingArea[next(i)].signal()
+*/
 }
